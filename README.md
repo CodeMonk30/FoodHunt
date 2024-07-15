@@ -1,2 +1,2 @@
 # FoodHunt
-food website
+food community website
